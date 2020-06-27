@@ -1,1 +1,2 @@
-# ezglobal
+# EzGlobal-translated
+just ezglobal translated
